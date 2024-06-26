@@ -10,3 +10,4 @@ To Add New File:-git add .
 To Check Status :- git status
 To Commit :- git commit -m "message"
 To Push :- git push
+To Find or Clone New Repository using VScode :- ctrl+shift+P then search git clone repository name
