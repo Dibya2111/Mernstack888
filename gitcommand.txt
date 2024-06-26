@@ -6,3 +6,7 @@ git config --global user.name "Dibya2111"
 git config --global user.email "<dibyajyotidash88@gmail.com>"
 >>>>>>> 59c2e3ecca7bce865db600ccdd379efb7ba64471
 git config --global credential.helper store
+To Add New File:-git add .
+To Check Status :- git status
+To Commit :- git commit -m "message"
+To Push :- git push
