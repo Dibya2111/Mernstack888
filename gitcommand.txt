@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 git config --global user.name "Dibya2111"
 git config --global user.email "<dibyajyotidash88@gmail.com>"
+=======
+git config --global user.name "Dibya2111"
+git config --global user.email "<dibyajyotidash88@gmail.com>"
+>>>>>>> 59c2e3ecca7bce865db600ccdd379efb7ba64471
 git config --global credential.helper store
